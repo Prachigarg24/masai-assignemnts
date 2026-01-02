@@ -1,4 +1,4 @@
-Node.js Fundamentals (Theory – Clean English)
+Node.js Fundamentals 
 1. What is Node.js? How does it differ from browser JavaScript?
 
 Node.js is a JavaScript runtime environment built on the Chrome V8 engine. It allows JavaScript to run outside the browser, mainly on the server side.
