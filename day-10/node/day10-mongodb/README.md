@@ -44,19 +44,4 @@
 
 ---
 
-## ✅ Machine Coding: Product Catalog API
 
-**Requirements:**
-- CRUD: Create, Read, Update, Delete products  
-- Pagination, Sorting  
-- Text search by product name/description  
-- Use MongoDB or in-memory mock
-
----
-
-## 🧩 Implementation (Node.js + Express + MongoDB)
-
-### 1️⃣ Install dependencies
-```bash
-npm init -y
-npm install express mongoose body-parser
