@@ -1,0 +1,12 @@
+{
+  "name": "realtime-upload-tracker",
+  "version": "1.0.0",
+  "description": "## 1. Difference between HTTP and WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
