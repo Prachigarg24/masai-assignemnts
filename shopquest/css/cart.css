@@ -1,0 +1,19 @@
+#cart {
+  background: white;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+#cart p {
+  padding: 8px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+#cart p:last-child {
+  border-bottom: none;
+}
+
+.checkout-btn {
+  background: green;
+}
